@@ -3,7 +3,7 @@ def find_nb(m):
     V = 0  # starting volume
     while V < m:
         n+=1 
-        V += (n**3 - n
-        if V==m
+        V += n**3
+        if V == m
         return n
     return -1
