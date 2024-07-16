@@ -1,4 +1,4 @@
-# codewars
+# Explanaition of my programs from leetcode and codeblocks
 My code wars programs with descriprions and my way of thinking
 
 ## 1.  Build a pile of Cubes (.py)
