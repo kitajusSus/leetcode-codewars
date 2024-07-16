@@ -27,6 +27,20 @@ Compute the difference between the two numerical values:
 
 ### Link:
 https://www.codewars.com/kata/526989a41034285187000de4/train/python
+## 3. Two sums
+### Task:
+"Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice."
+### Solution:
+-Create an empty dictionary to store the indices of the numbers we have seen so far.
+-Iterate through the list of numbers using their indices.
+-For each number, calculate its complement (target - number).
+-Check if the complement exists in the hash map.
+-If it exists, return the indices of the complement and the current number.
+-If it does not exist, store the current number and its index in the hash map.
+-If no solution is found by the end of the iteration, return an empty list (this shouldn't happen as per the problem statement).
+### Link:
+https://leetcode.com/problems/two-sum/submissions/1322741573/
 
 
 
@@ -34,3 +48,9 @@ https://www.codewars.com/kata/526989a41034285187000de4/train/python
 https://leetcode.com/u/kitajussus/
 # link do my code wars account
 https://www.codewars.com/users/kitajusSus
+
+
+## TEMPLATE
+### Task:
+### Solution 
+### Link:
