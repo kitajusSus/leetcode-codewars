@@ -41,7 +41,15 @@ You may assume that each input would have exactly one solution, and you may not 
 -If no solution is found by the end of the iteration, return an empty list (this shouldn't happen as per the problem statement).
 ### Link:
 https://leetcode.com/problems/two-sum/submissions/1322741573/
+## 5. Reverse int
+### Task:
+Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-2^31, 2^31 - 1], then return 0.
+### Solution:
 
+ use a loop to repeatedly extract the last digit of x and build the reversed number.
+After extracting each digit, I reduced x by removing its last digit.
+### Link:
+https://leetcode.com/problems/reverse-integer/
 
 
 # link do my leetcode account
