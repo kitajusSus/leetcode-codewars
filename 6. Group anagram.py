@@ -10,3 +10,6 @@ class Solution:
             anagram[k].append(s)
         # return all the values from dictionary (lists of lists)
         return list(anagram.values())
+
+
+## link: https://leetcode.com/submissions/detail/1322791116/
