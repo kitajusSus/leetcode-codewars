@@ -23,3 +23,4 @@ class Solution:
                 return 0
             rev_n = rev_n *10+last
         return sign * rev_n
+## link: https://leetcode.com/problems/reverse-integer/
