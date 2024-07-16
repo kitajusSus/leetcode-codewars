@@ -28,5 +28,9 @@ Compute the difference between the two numerical values:
 ### Link:
 https://www.codewars.com/kata/526989a41034285187000de4/train/python
 
+
+
+# link do my leetcode account
+https://leetcode.com/u/kitajussus/
 # link do my code wars account
 https://www.codewars.com/users/kitajusSus
