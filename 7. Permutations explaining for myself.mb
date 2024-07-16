@@ -71,10 +71,9 @@ return permutations
 
 ## Example Usage
 
-Here's how you can use the `Solution` class to generate permutations:
 
 ```python
-# Example usage of the Solution class
+
 solution = Solution()
 nums = [1, 2, 3]
 print(solution.permute(nums))
