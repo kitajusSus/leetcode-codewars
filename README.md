@@ -62,6 +62,17 @@ c) unziping: "sorted_names = [name for height, name in sorted_people] "we unzip 
 ### Link:
 https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22
 
+
+## 601. Human Traffic of Stadium
+### Task: 
+Write a solution to display the records with three or more rows with consecutive id's, and the number of people is greater than or equal to 100 for each.
+Return the result table ordered by visit_date in ascending order.
+The result format is in the following example.
+### Solution:
+i explain later [never]
+### Link:
+https://leetcode.com/problems/human-traffic-of-stadium/description/?lang=pythondata
+
 # link do my leetcode account
 https://leetcode.com/u/kitajussus/
 # link do my code wars account
