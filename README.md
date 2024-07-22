@@ -53,11 +53,14 @@ https://leetcode.com/problems/reverse-integer/
 
 
 ## 2418. Sort the People
-### Task: "You are given an array of strings names, and an array heights that consists of distinct positive integers. Both arrays are of length n, For each index i, names[i] and heights[i] denote the name and height of the ith person.
+### Task: 
+"You are given an array of strings names, and an array heights that consists of distinct positive integers. Both arrays are of length n, For each index i, names[i] and heights[i] denote the name and height of the ith person.
 Return names sorted in descending order by the people's heights."
-### Solution: a) zip-ing, glue both arrays '[height, name]' and sort them by higher int, b) sorting: we sort the zipings starting from first element which is ''height'' as function 'lambda x: x[0]' gives me the number which is used as a " sorting key" 
+### Solution:
+a) zip-ing, glue both arrays '[height, name]' and sort them by higher int, b) sorting: we sort the zipings starting from first element which is ''height'' as function 'lambda x: x[0]' gives me the number which is used as a " sorting key" 
 c) unziping: "sorted_names = [name for height, name in sorted_people] "we unzip this sorted package  to get our list of names 
 ### Link:
+https://leetcode.com/problems/sort-the-people/description/?envType=daily-question&envId=2024-07-22
 
 # link do my leetcode account
 https://leetcode.com/u/kitajussus/
