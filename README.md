@@ -18,12 +18,13 @@ To solve this problem, you need to convert the IPv4 addresses to their numerical
 Steps:
 * Convert an IPv4 address to a numerical value:
 
-** Split the address into its four octets.
+* Split the address into its four octets.
 Each octet is an 8-bit number, so combine them into a 32-bit number.
-*** For example, the IP "192.168.1.1" can be converted to a numerical value by computing:
-'''python
+* For example, the IP "192.168.1.1" can be converted to a numerical value by computing:
+
+```python
 192 * 256^3 + 168 * 256^2 + 1 * 256^1 + 1 
-'''
+```
  
 * Compute the difference between the two numerical values.
 
